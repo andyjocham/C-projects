@@ -108,7 +108,7 @@ int main()
 	return 0;
 }
 
-//funktionen initialisieren nach der main() wegen übersichtlichkeit oder auch nicht
+//funktionen initialisieren nach der main() wegen übersichtlichkeit
 void resetBoard()
 {
 	for(int i = 0; i < 3; i++)
